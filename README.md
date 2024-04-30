@@ -36,3 +36,4 @@ Final= Arreglo1 + ceros #Concatenamos el arreglo original y despues la lista de 
 print(Final) # Imprimimos la lista final
 ```
 >#### 4.Revisar que son los algoritmos de sorting, entender bubble-sort (enlace a implementación).
+Los algoritmos de sorting son algoritmos que organizan datos de una lista o conjunto en un orden especifico. [El bubble-sort](https://www.programiz.com/dsa/bubble-sort) consiste en comparar pares de datos e intercambiarlos hasta que este organizado.
